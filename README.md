@@ -1,5 +1,6 @@
-# Hi, I'm Dominique Ecleo 👋
+# Hey there!👋 I'm Dominique Ecleo
 
+I am a data enthusiast and analyst.
 <!--
 **ecleodominique/ecleodominique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
