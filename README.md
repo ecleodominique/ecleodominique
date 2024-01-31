@@ -2,7 +2,7 @@
 
 I am a data enthusiast and analyst with experience in process analysis and improvement as a formerly Process Technical Engineer.
 - 🔭 I’m currently working on a project related to greenhouse gas emissions in the Philippines.
-- 🚀 I'm planning to delve more into statistical analysis and machine learning.
+- 🚀 I'm planning to delve more into machine learning.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I enjoy singing, reading great books and manga, diving into anime, exploring new places, and seeking thrilling adventures within budget constraints.
 ## Find me around the web 🌎:
