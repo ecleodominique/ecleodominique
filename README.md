@@ -1,6 +1,10 @@
 # Hey there!👋 I'm Dominique Ecleo
 
-I am a data enthusiast and analyst.
+I am a data enthusiast and analyst with experience in process analysis and improvement as a formerly Process Technical Engineer.
+
+## Find me around the web 🌎:
+- Learn more about me in my <a href="https://ecleodominique.github.io/">portfolio website</a> 🖥
+- Connect with me on <a href="https://www.linkedin.com/in/ecleodominique/">LinkedIn</a> 💼
 <!--
 **ecleodominique/ecleodominique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
